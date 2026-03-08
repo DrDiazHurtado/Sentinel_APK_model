@@ -28,5 +28,5 @@ Este proyecto es una prueba de concepto sólida de ingeniería de software moder
 **DrDiaz** se especializa en la creación de herramientas tecnológicas que cierran la brecha entre el análisis de datos complejo y la ejecución táctica. Este proyecto refleja un dominio completo del ciclo de vida de desarrollo: desde el diseño del motor algorítmico hasta la implementación de la interfaz de usuario final.
 
 *   **GitHub**: [DrDiazHurtado](https://github.com/DrDiazHurtado)
-*   **LinkedIn**: [Disponible en perfil de GitHub]
-*   **Enfoque**: FinTech, Machine Learning, Desarrollo Nativo.
+*   **LinkedIn**: [Marcos Díaz Hurtado](https://www.linkedin.com/in/marcos-diaz-hurtado-0689a4182/)
+*   **Enfoque**: Quantitative Finance, Artificial Intelligence, Software Architecture.
