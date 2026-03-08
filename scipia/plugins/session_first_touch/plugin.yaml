@@ -1,0 +1,13 @@
+name: session_first_touch_plugin
+version: "1.0.0"
+description: "Plugin de predicción direccional mediante first-touch de niveles intradía (15m)."
+author: "Scipia AI Architect"
+enabled: true
+type: "algo_predictive"
+priority: 85
+config:
+  horizon_bars: 8
+  atr_window: 14
+  vol_window: 20
+  threshold: 0.60
+  timeframe: "15m"
