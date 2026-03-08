@@ -23,6 +23,20 @@ Este proyecto es una prueba de concepto sólida de ingeniería de software moder
 - **Visualización de Alto Impacto**: Diseño de interfaz orientado a la toma de decisiones rápidas, con precios en tiempo real y señales codificadas por criticidad.
 - **Failsafe de Red**: Lógica integrada de detección de conectividad y reintento automático para garantizar la continuidad operativa.
 
+---
+
+<p align="center">
+  <a href="https://github.com/DrDiazHurtado/Sentinel_APK_model/releases/tag/v1.0.0">
+    <img src="https://img.shields.io/badge/DESCARGAR_APK-v1.0.0-gold?style=for-the-badge&logo=android&logoColor=white" height="60">
+  </a>
+</p>
+
+<p align="center">
+  <i>Nota: Descargue el archivo <b>.apk</b> desde la sección de Assets para proceder con la instalación en su dispositivo Android.</i>
+</p>
+
+---
+
 ## 📸 Interfaz Visual (Preview)
 <p align="center">
   <img src="images/app_welcome.png" width="350" title="Pantalla de Inicio">
