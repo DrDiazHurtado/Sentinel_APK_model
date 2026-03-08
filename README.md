@@ -26,8 +26,8 @@ Este proyecto es una prueba de concepto sólida de ingeniería de software moder
 ---
 
 <p align="center">
-  <a href="https://github.com/DrDiazHurtado/Sentinel_APK_model/releases/tag/v1.0.0">
-    <img src="https://img.shields.io/badge/DESCARGAR_APK-v1.0.0-gold?style=for-the-badge&logo=android&logoColor=white" height="60">
+  <a href="https://github.com/DrDiazHurtado/Sentinel_APK_model/releases/tag/v1.0.3">
+    <img src="https://img.shields.io/badge/DESCARGAR_APK-v1.0.3-gold?style=for-the-badge&logo=android&logoColor=white" height="60">
   </a>
 </p>
 
