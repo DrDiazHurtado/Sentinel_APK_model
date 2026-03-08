@@ -23,6 +23,12 @@ Este proyecto es una prueba de concepto sólida de ingeniería de software moder
 - **Visualización de Alto Impacto**: Diseño de interfaz orientado a la toma de decisiones rápidas, con precios en tiempo real y señales codificadas por criticidad.
 - **Failsafe de Red**: Lógica integrada de detección de conectividad y reintento automático para garantizar la continuidad operativa.
 
+## 📸 Interfaz Visual (Preview)
+<p align="center">
+  <img src="images/app_welcome.png" width="350" title="Pantalla de Inicio">
+  <img src="images/app_terminal.png" width="350" title="Terminal de Datos">
+</p>
+
 ---
 
 ## 👨‍💻 Perfil del Desarrollador
