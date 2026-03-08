@@ -1,4 +1,5 @@
-# 🛡️ Sentinel Mobile: Quantitative Crypto Intelligence
+# <img src="images/dr_diaz_brawler.png" width="100" align="left"> 🛡️ Sentinel Mobile: Quantitative Crypto Intelligence
+<br clear="left">
 
 **Sentinel Mobile** es una estación de análisis financiero para Android que traslada el rigor del trading cuantitativo institucional a un entorno móvil. Diseñada y desarrollada íntegramente por **DrDiaz**, esta aplicación demuestra la integración de arquitecturas de Inteligencia Artificial avanzadas en sistemas de tiempo real.
 
